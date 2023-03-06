@@ -1,5 +1,5 @@
-# Ageu 
+# Ageu
 
  O que eu espero do curso?
 
-Aprender a programar e conseguir um emprego bacana.
+Eu espero aprender o necessario para conseguir um emprego bacana na área de TI.
